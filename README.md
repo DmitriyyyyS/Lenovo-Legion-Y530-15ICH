@@ -12,3 +12,5 @@ Intel UHD Graphics 630
 Realtek ALC236
 
 Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter 
+
+MacOS Catalina - BigSur
